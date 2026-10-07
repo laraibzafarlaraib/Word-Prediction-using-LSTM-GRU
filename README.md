@@ -109,8 +109,8 @@ next-word-prediction-lstm-gru/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/<your-username>/next-word-prediction-lstm-gru.git
-   cd next-word-prediction-lstm-gru
+   git clone https://github.com/laraibzafarlaraib/Word-Prediction-LSTM-GRU.git
+   cd Word-Prediction-LSTM-GRU
    ```
 
 2. Create and activate a virtual environment (recommended):
